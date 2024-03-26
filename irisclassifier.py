@@ -1,6 +1,6 @@
 from sklearn.datasets import load_iris
 from sklearn.ensemble import RandomForestClassifier
-# from sklearn.linear_model import LogisticRgression
+from sklearn.linear_model import LogisticRgression
 from sklearn.model_selection import train_test_split
 import pickle as pickle
 
